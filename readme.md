@@ -56,28 +56,47 @@ Awaits comparison for performance indices of the system Results Reporting: To se
 Measured to ensure the system’s efficiency.
 
 The core hardware components are:
+
 o	End points of input parameters: for instance, bins status, battery, temperature and geolocation coordinates that must be fed into the system.
-o	To recap again, one can never clean enough data, i.e., not purify it enough for any meaningful number in respect to a numeric attribute to be considered seriously towards some treatment alone being really a signal towards some outcome of a precious user attribute. 
+
+o	To recap again, one can never clean enough data, i.e., not purify it enough for any meaningful number in respect to a numeric attribute to be considered seriously towards some treatment alone being really a 
+signal towards some outcome of a precious user attribute. 
+
 o	Another thing could be treating the outcomes-non-fulfilling outcomes as classification by this concept-by full bins and empty bins, and so not as continuous but as binary classification.
+
 o	Evaluated model metrics include accuracy, precision and recall, confusion matrices, F1-score, area under the ROC curve separating positive from negative instances at all thresholds cumulative AUC, Cohen's kappa degree of agreement and time taken for the training. 
+
 o	Visualising Data: There would also include heat maps of confusion matrices and noise charts along with ROC cuts, other than the above specifications. 
+
 o	To bring in these, the nonfunctionals which came in form of performance indicators were to be put into the overall picture of judging the system. 
+
 o	This model predictions have such scalability because they will take up more and redesigned data that will be generated later in future, each single improvement and development stating very much not a one-time single shot, withstands challenge into the future. 
+
 o	Noise data that was supposed possible to affect model performance very little would use this in training on clean-data pre-processing toward improving the robustness of SMOTE. 
+
 o	Tools & Technology:
  	Programming language: Python Library: Pandas, Numpy, Scikit-learn, Catboost, Imbalanced-learn, Matplotlib, and Seaborn. 
 Data Source: It is a CSV export of the historical data of sensors from Excel, mainly. 
 Measurement of Evaluation: It's just how many full bins were called too full, and this, by definition, reflects accuracy-the ratio of positive classification that turned out to be positive. 
+
 o	Then recall tells how many of the actual, really positives the model caught; recall is real. 
+
 o	In addition, accuracies tell how accurate the classification should have been. 
+
 o	F1-Score is the harmonic mean of precision and recall. 
-o	True-positive or false-positives and-negatives comprise feelings-based bases, multiplicity engaged through confusion matrix. 
-o	 
+
+o	True-positive or false-positives and-negatives comprise feelings-based bases, multiplicity engaged through confusion matrix. 	 
+
 o	AUC and ROC are mainly disjunct parameters of performance metrics, applicable under probabilistic outcome condition for appraising a model. 
+
 o	Cohen's Kappa: Chance agreement correction. 
+
 o	Running time measurement is essentially time-efficiency measured in time.
+
 SOLUTION
+
 Models Developed:
+
 1.	CatBoost Classifier
 o	Advantages: Excellent handling of categorical data; robust performance with minimal parameter tuning.
 o	Implementation: Uses engineered features (temporal, spatial) with CatBoost to produce high-quality predictions.
