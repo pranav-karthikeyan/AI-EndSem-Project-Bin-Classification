@@ -117,6 +117,7 @@ o	All models were enhanced by preprocessing (cleaning, feature extraction, scali
 o	The evaluation metrics and visualizations (confusion matrix heatmaps, ROC curves) guide the selection of the best model for deployment.
 
 CONCLUSION 
+
 The hazard of waste bin fill level classification successfully marries the sensor reading features with the modern machine-learning techniques for waste bin status prediction. The proposed system focuses on data quality through the implementation of a thorough preprocessing method and proper feature engineering to keep the input data clean. 
  
 Bigger models allow comparing disparate completely level algorithms based upon their strengths. For instance, algorithms such as CatBoost, KNN, and Decision Tree are used here.
