@@ -79,6 +79,7 @@ o	Noise data that was supposed possible to affect model performance very little 
 o	Tools & Technology:
  	Programming language: Python Library: Pandas, Numpy, Scikit-learn, Catboost, Imbalanced-learn, Matplotlib, and Seaborn. 
 Data Source: It is a CSV export of the historical data of sensors from Excel, mainly. 
+
 Measurement of Evaluation: It's just how many full bins were called too full, and this, by definition, reflects accuracy-the ratio of positive classification that turned out to be positive. 
 
 o	Then recall tells how many of the actual, really positives the model caught; recall is real. 
