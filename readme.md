@@ -1,4 +1,5 @@
 AIM OF THE PROJECT: 
+
 The goal of this project is to create an intelligent system capable of accurately labeling garbage bins as "Full" or "Not Full" based on sensor data and machine learning techniques. Prediction of the fill level of the bins through this system facilitates smart waste management by optimizing collection routes and reducing operation costs.
 PROBLEM STATEMENT AND SOLUTION: 
 Dustbin emptying is beset with tracking and timely dustbin emptying. Static scheduling or manual monitoring has been employed previously, which are bound to lead to overflows or wasteful collections. The system leverages sensor readings (fill level, battery, temperature, location, and temporal features) to automatically label bins as "Full" or "Not Full" using three machine learning algorithms: CatBoost, K-Nearest Neighbors (KNN) Classification, and Decision Tree Classification.
