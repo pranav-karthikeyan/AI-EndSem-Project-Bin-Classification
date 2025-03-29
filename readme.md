@@ -13,7 +13,9 @@ Main objectives are:
 
 • Efficiency: Monitor and optimize overall run time for the system in order to make it real-time or near real-time.
 Decision-making by the system helps in best routing of waste collection and thereby lowers operational cost as well as environmental cost.
+
 PROCEDURE:
+
 Brief treatment of the operation procedures include:
 1.	The sensor readings: 
 The data forms collected from the sensors merging with the dustbins along with any vital historical information storage collected that referred to status of battery, temperature, geo location, and fill level grades in litres or percentage steeped as outputs. Data Preprocessing: Cleaning: removing extraneous characters and transforming all string values like temperature to float values.
@@ -98,22 +100,39 @@ SOLUTION
 Models Developed:
 
 1.	CatBoost Classifier
+
 o	Advantages: Excellent handling of categorical data; robust performance with minimal parameter tuning.
+
 o	Implementation: Uses engineered features (temporal, spatial) with CatBoost to produce high-quality predictions.
+
 o	Evaluation: Metrics include high accuracy and balanced precision/recall, along with ROC-AUC and Cohen’s Kappa.
+
 2.	K-Nearest Neighbors (KNN) Classifier
+
 o	Advantages: Simple and intuitive; effective with proper scaling and balanced data via SMOTE.
+
 o	Implementation: Uses a KNN classifier with k=5; performance is evaluated with confusion matrix and ROC metrics.
+
 o	Evaluation: Provides a baseline model with competitive precision and recall on oversampled data.
+
 3.	Decision Tree Classifier
+
 o	Advantages: Highly interpretable; useful for understanding feature splits and decision boundaries.
+
 o	Implementation: Uses a decision tree with controlled depth (max_depth=5) to prevent overfitting.
+
 o	Evaluation: Metrics include confusion matrix, ROC-AUC, and Cohen’s Kappa, supporting the model’s explainability.
+
 Comparative Analysis:
+
 o	CatBoost tends to excel in scenarios with a mix of categorical and numerical data.
+
 o	KNN provides a straightforward approach when features are well-scaled.
+
 o	Decision Tree offers clear interpretability and faster inference.
+
 o	All models were enhanced by preprocessing (cleaning, feature extraction, scaling) and by using SMOTE to correct class imbalance.
+
 o	The evaluation metrics and visualizations (confusion matrix heatmaps, ROC curves) guide the selection of the best model for deployment.
 
 CONCLUSION 
