@@ -2,7 +2,13 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/PranavK-27"><img src="https://avatars.githubusercontent.com/u/pranav-karthikeyan?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Karthikeyan</b></sub></a></td>
+    <td align="center">
+      <a href="https://github.com/pranav-karthikeyan">
+        <img src="https://avatars.githubusercontent.com/u/107687879?v=4" width="100px;" alt="Pranav Karthikeyan"/>
+        <br />
+        <sub><b>Pranav Karthikeyan</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
