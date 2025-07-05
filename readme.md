@@ -25,7 +25,7 @@
     </td>
   </tr>
 </table>
-
+**Information: This repository contains the material of Batch-12: Artificial Intelligence and Edge Computing** (End Semester) 
 
 ## 🎯 AIM OF THE PROJECT: 
 
