@@ -11,21 +11,21 @@
     </td>
     <td align="center">
       <a href="https://github.com/USPraveenkumar">
-        <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="100px;" style="border-radius: 50%;" alt="John Doe"/>
+        <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="100px;" style="border-radius: 50%;" alt="US Praveenkumar"/>
         <br />
         <sub><b>US Praveenkumar</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/PranavVenkateswaran">
-        <img src="https://avatars.githubusercontent.com/u/202623411?v=4" width="100px;" style="border-radius: 50%;" alt="John Doe"/>
+        <img src="https://avatars.githubusercontent.com/u/202623411?v=4" width="100px;" style="border-radius: 50%;" alt="Pranav Venkateswaran"/>
         <br />
         <sub><b>Pranav Venkateswaran</b></sub>
       </a>
     </td>
-    
   </tr>
 </table>
+
 
 ## AIM OF THE PROJECT: 
 
