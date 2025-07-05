@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/pranav-karthikeyan">
-        <img src="https://avatars.githubusercontent.com/u/107687879?v=4" width="100px;" alt="Pranav Karthikeyan"/>
+        <img src="https://avatars.githubusercontent.com/u/73694914?v=4" width="100px;" alt="Pranav Karthikeyan"/>
         <br />
         <sub><b>Pranav Karthikeyan</b></sub>
       </a>
