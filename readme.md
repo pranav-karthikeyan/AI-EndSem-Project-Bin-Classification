@@ -27,11 +27,11 @@
   </tr>
 </table>
 
-AIM OF THE PROJECT: 
+## AIM OF THE PROJECT: 
 
 The goal of this project is to create an intelligent system capable of accurately labeling garbage bins as "Full" or "Not Full" based on sensor data and machine learning techniques. Prediction of the fill level of the bins through this system facilitates smart waste management by optimizing collection routes and reducing operation costs.
 
-PROBLEM STATEMENT AND SOLUTION: 
+## PROBLEM STATEMENT AND SOLUTION: 
 
 Dustbin emptying is beset with tracking and timely dustbin emptying. Static scheduling or manual monitoring has been employed previously, which are bound to lead to overflows or wasteful collections. The system leverages sensor readings (fill level, battery, temperature, location, and temporal features) to automatically label bins as "Full" or "Not Full" using three machine learning algorithms: CatBoost, K-Nearest Neighbors (KNN) Classification, and Decision Tree Classification.
 Main objectives are:
@@ -43,7 +43,7 @@ Main objectives are:
 • Efficiency: Monitor and optimize overall run time for the system in order to make it real-time or near real-time.
 Decision-making by the system helps in best routing of waste collection and thereby lowers operational cost as well as environmental cost.
 
-PROCEDURE:
+## PROCEDURE:
 
 Brief treatment of the operation procedures include:
 1.	The sensor readings: 
@@ -63,7 +63,7 @@ a.	Core metrics-Precision, Recall, Accuracy, F1-Score, Confusion Matrix.
 b.	Secondary metrics-ROC Curve, AUC Score, Cohen's Kappa Score.
 c.	Total run time efficiency.
  	The graphical output consists of heatmaps of confusion matrix and ROC curves besides hard copies of all the measurements.
-FLOW EXPLANATION: 
+## FLOW EXPLANATION: 
 1.	Data Preparation and Cleaning: 
 The data is captured as Excel file from a system input. Attributes are trimmed from front and back sides and entire rows with NaN are deleted. All characters not numbers would be cleaned off using regular expressions for numeric features such as temperature, battery level, latitude, and longitude.
 2.	Feature Engineering and Selection: 
@@ -125,7 +125,7 @@ o	Cohen's Kappa: Chance agreement correction.
 
 o	Running time measurement is essentially time-efficiency measured in time.
 
-SOLUTION
+## SOLUTION
 
 Models Developed:
 
@@ -165,7 +165,7 @@ o	All models were enhanced by preprocessing (cleaning, feature extraction, scali
 
 o	The evaluation metrics and visualizations (confusion matrix heatmaps, ROC curves) guide the selection of the best model for deployment.
 
-CONCLUSION 
+## CONCLUSION 
 
 The hazard of waste bin fill level classification successfully marries the sensor reading features with the modern machine-learning techniques for waste bin status prediction. The proposed system focuses on data quality through the implementation of a thorough preprocessing method and proper feature engineering to keep the input data clean. 
  
