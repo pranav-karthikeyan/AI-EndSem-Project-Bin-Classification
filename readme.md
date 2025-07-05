@@ -1,3 +1,11 @@
+## 🤝 Collaborators
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/PranavK-27"><img src="https://avatars.githubusercontent.com/u/pranav-karthikeyan?v=4" width="100px;" alt=""/><br /><sub><b>Pranav Karthikeyan</b></sub></a></td>
+  </tr>
+</table>
+
 AIM OF THE PROJECT: 
 
 The goal of this project is to create an intelligent system capable of accurately labeling garbage bins as "Full" or "Not Full" based on sensor data and machine learning techniques. Prediction of the fill level of the bins through this system facilitates smart waste management by optimizing collection routes and reducing operation costs.
