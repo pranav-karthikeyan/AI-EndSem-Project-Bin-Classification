@@ -10,10 +10,17 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/johndoe">
-        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="John Doe"/>
+      <a href="https://github.com/USPraveenkumar">
+        <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="100px;" alt="John Doe"/>
         <br />
-        <sub><b>John Doe</b></sub>
+        <sub><b>US Praveenkumar</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PranavVenkateswaran">
+        <img src="https://avatars.githubusercontent.com/u/202623411?v=4" width="100px;" alt="John Doe"/>
+        <br />
+        <sub><b>Pranav Venkateswaran</b></sub>
       </a>
     </td>
     
