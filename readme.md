@@ -9,6 +9,14 @@
         <sub><b>Pranav Karthikeyan</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/johndoe">
+        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="John Doe"/>
+        <br />
+        <sub><b>John Doe</b></sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 
