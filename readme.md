@@ -23,6 +23,13 @@
         <sub><b>Pranav Venkateswaran</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/KRISSHANTH-R">
+        <img src="https://avatars.githubusercontent.com/u/175583154?v=4" width="100" height="100" style="border-radius:50%;" alt="Pranav Karthikeyan"/>
+        <br />
+        <sub><b>Pranav Karthikeyan</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
