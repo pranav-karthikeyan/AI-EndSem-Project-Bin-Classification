@@ -13,7 +13,7 @@
       <a href="https://github.com/USPraveenkumar">
         <img src="https://avatars.githubusercontent.com/u/115538058?v=4" width="100" height="100" style="border-radius:50%;" alt="US Praveenkumar"/>
         <br />
-        <sub><b>US Praveenkumar</b></sub>
+        <sub><b>Praveenkumar US</b></sub>
       </a>
     </td>
     <td align="center">
@@ -27,7 +27,7 @@
       <a href="https://github.com/KRISSHANTH-R">
         <img src="https://avatars.githubusercontent.com/u/175583154?v=4" width="100" height="100" style="border-radius:50%;" alt="Pranav Karthikeyan"/>
         <br />
-        <sub><b>Pranav Karthikeyan</b></sub>
+        <sub><b>Krisshanth R</b></sub>
       </a>
     </td>
   </tr>
